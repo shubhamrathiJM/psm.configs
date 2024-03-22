@@ -209,12 +209,12 @@
     "BLAZE": {
       "cardsMetadata": {
         "title": {
-          "text": "Get the Edge CSB Bank RuPay Credit Card",
+          "text": "Get the 3-in-1 Credit Card",
           "variant": "headline1",
           "color": "black100"
         },
         "subtitle": {
-          "text": "Scan any QR. Pay with Credit Card. Up to 5% cashback",
+          "text": "Switch between Shopping, Travel, and Dining. Edge CSB Bank Credit Card ",
           "variant": "body3",
           "color": "black60"
         },
@@ -226,12 +226,12 @@
         "highlight": {
           "DEFAULT": {
             "icon": {
-              "url": "imageurl",
+              "url": "https://assets.jupiter.money/app/jupiter/onboarding/psm/star.svg",
               "width": null,
               "height": null
             },
             "text": {
-              "text": "Lifetime-free. ₹0 joining fee",
+              "text": "2% cashback. Lifetime free",
               "variant": "body3",
               "color": "black80"
             }
@@ -339,12 +339,12 @@
       },
       "bottomsheetsMetadata": {
         "title": {
-          "text": "Get the Edge CSB Bank RuPay Credit Card",
+          "text": "Get the 3-in-1 Credit Card",
           "variant": "headline1",
           "color": "black100"
         },
         "subtitle": {
-          "text": "Scan any QR. Pay with Credit Card. Up to 5% cashback",
+          "text": "2% cashback • Lifetime Free",
           "variant": "body3",
           "color": "black60"
         },
@@ -368,7 +368,7 @@
               "height": null
             },
             "title": {
-              "text": "Up to 5% cashback on UPI spends",
+              "text": "Switch between Shopping, Travel, or Dining",
               "variant": null,
               "color": null
             },
@@ -381,7 +381,7 @@
               "height": null
             },
             "title": {
-              "text": "1% cashback on Credit Card spends",
+              "text": "Scan any QR. Pay with Credit Card",
               "variant": null,
               "color": null
             },
@@ -394,7 +394,7 @@
               "height": null
             },
             "title": {
-              "text": "Lifetime free. ₹0 joining fee",
+              "text": "Earn cashback on UPI & credit card",
               "variant": null,
               "color": null
             },
