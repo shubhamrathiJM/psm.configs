@@ -54,7 +54,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT ELIGIBLE",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -241,7 +241,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT ELIGIBLE",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -477,7 +477,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT ELIGIBLE",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -770,7 +770,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "REJECTED",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -779,7 +779,7 @@
           "PRODUCT_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT AVAILABLE",
+              "text": "NOT ELIGIBLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -928,7 +928,7 @@
               "height": null
             },
             "text": {
-              "text": "Lifetime-free. ₹0 joining fee",
+              "text": "Scan any QR. Pay with credit card",
               "variant": "body3",
               "color": "black80"
             }
@@ -938,7 +938,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "REJECTED",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -947,7 +947,7 @@
           "PRODUCT_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT AVAILABLE",
+              "text": "NOT ELIGIBLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -1155,7 +1155,7 @@
           "RISK_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "REJECTED",
+              "text": "NOT AVAILABLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -1164,7 +1164,7 @@
           "PRODUCT_REJECTED": {
             "bgColor": "#F2F2F2",
             "title": {
-              "text": "NOT AVAILABLE",
+              "text": "NOT ELIGIBLE",
               "variant": null,
               "color": "#0D0D0D"
             },
@@ -1439,13 +1439,13 @@
           }
         }
       },
-      "showOnRiskRejected": true,
+      "showOnRiskRejected": false,
       "showOnRiskAccepted": true
     }
   },
   "order": [
-    "JUPITER_SAVINGS_SERVICE",
     "BLAZE",
+    "JUPITER_SAVINGS_SERVICE",
     "ODS_EMI",
     "UPI_SERVICE"
   ]
